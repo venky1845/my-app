@@ -1,0 +1,8 @@
+.head{
+    display: flex;
+    justify-content: center;
+    height:70px;
+    padding:20px;
+    background-color: black;
+    align-items: center;
+}
